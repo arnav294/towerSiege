@@ -72,7 +72,7 @@ sticky = new StickyObj(bodyA = polygon.body,pointb = {x:170,y:360})
 
 function draw() {
   rectMode(CENTER);
-  background("red");
+  background("BLACK");
 
   textSize(20)
   text("tries : "+count,200,300)
